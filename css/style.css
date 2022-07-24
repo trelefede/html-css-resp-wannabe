@@ -162,4 +162,12 @@ img {
     }
 }
 
-/*  */
+/* BONUS
+
+@media screen and (min-width:769px) and (max-width: 1160px) {
+    .container {
+        max-width: 1028px;
+        min-width: 769px;
+        margin: 0 auto;
+    }
+} */
